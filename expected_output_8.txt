@@ -1,0 +1,22 @@
+Initial LC: 1
+201 - HTTP_CREATED
+uploading content
+CS ID: 1
+New LC: 3
+
+204 - Content is empty
+
+Initial LC: 1
+201 - HTTP_CREATED
+uploading content
+CS ID: 2
+New LC: 4
+
+500 - Internal server error
+
+ContentServer process Error:
+Initial LC: 1
+Error: 400
+
+Client process Error:
+Error: 400

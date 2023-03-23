@@ -1,0 +1,6 @@
+title:My example feed 2
+subtitle:for demonstration purposes
+link:www.cs.adelaide.edu.au
+updated:2015-08-07T18:30:02Z
+author:Santa Claus
+id:urn::uuid:60a76c80-d399-11d9-b93C-0003939e0af6

@@ -1,0 +1,11 @@
+title:Moby Dick
+link:www.cs.adelaide.edu.au/users/third/ds/14ds2s1
+id:urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+updated:2015-08-07T18:29:02Z
+summary:here's another summary entry which a reader would normally use to work out if they wanted to read some more.
+entry
+title: THIS ENTRY HAS NO ID FIELD
+link:www.cs.adelaide.edu.au/users/third/ds/14ds2s1
+urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+updated:2015-08-07T18:29:02Z
+summary:here's another summary entry which a reader would normally use to work out if they wanted to read some more.
